@@ -9,7 +9,18 @@
   font-size: 800%;
 }
 
-img{
+img {
   width:20%;
   float: right;
+}
+
+.three-columns {
+  display: table;
+  width: 100%;
+}
+
+.column {
+  display: table-cell;
+  padding: 15px;
+  border: solid black;
 }
