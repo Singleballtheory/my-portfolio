@@ -24,7 +24,7 @@ This portfolio contains a collection of projects I've completed during my time a
 
 ## License
 
-MIT(https://choosealicense.com/licenses/mit/#)
+[MIT](https://choosealicense.com/licenses/mit/#)
 
 If you have any questions or concerns, please contact:
 
