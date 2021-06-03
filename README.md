@@ -14,9 +14,7 @@ This portfolio contains a collection of projects I've completed during my time a
 
 ## Setup/Installation
 
-* Clone this repository to your desktop.
-* Navigate to the top level directory.
-* Open portfolio.html doc.
+* Navigate your web browser to https://singleballtheory.github.io/my-portfolio/
 
 ## Known Issues
 
